@@ -1,11 +1,6 @@
 # Exercise
 
-  1. Recreate your stack and queue as a package.
-  2. Name your package as myUtil.
-  3. Reimplement them using ArrayList.
-  4. Implement main app in default package.
-  5. In main app, create stack and queue that hold 10 items.
-  6. Then random number ten times, put them in stack and queue. Then pop them out.
-  7. Repeat it again.
-  8. Create a jar file from your package and your main app.
-  
+  1. You are going to implement Animal, Cat, Dog, and Human.
+  2. Create dog, cat, human objects.
+  3. Store them in array
+  4. Loop through everyone and let them talk.
