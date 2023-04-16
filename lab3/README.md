@@ -6,6 +6,6 @@
   4. Implement main app in default package.
   5. In main app, create stack and queue that hold 10 items.
   6. Then random number ten times, put them in stack and queue. Then pop them out.
-  7. Repeat it again
+  7. Repeat it again.
   8. Create a jar file from your package and your main app.
   
