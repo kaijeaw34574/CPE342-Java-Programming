@@ -1,1 +1,1 @@
-# CPE342 Java Programming
+# CPE342 - Java Programming
